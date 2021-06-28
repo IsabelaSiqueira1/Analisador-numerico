@@ -1,0 +1,25 @@
+body{
+    background:#b444ffd3;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+header{
+    color:white;
+    text-align:center;
+}
+section{
+    background:white;
+    border-radius:18px;
+    padding:15px;
+    width:500px;
+    margin:auto;
+    box-shadow:5px 5px 10px rgba(0, 0, 0, 0.336);
+}
+select#flista{
+    width:150px;
+}
+footer{
+    color:white;
+    text-align:center;
+    font-style:italic;
+}
